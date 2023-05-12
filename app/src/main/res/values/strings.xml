@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="text_edit_hint_label">Enter value here</string>
+    <string name="name_label">Name:</string>
+    <string name="mobile_label">Mobile No:</string>
+    <string name="group_size_label">Group Size:</string>
+    <string name="date_label">Date:</string>
+    <string name="time_label">Time:</string>
+    <string name="area_label">Area Type:</string>
+    <string name="smoking_label">Smoking</string>
+    <string name="non_smoking_label">Non-Smoking</string>
+    <string name="confirm_label">Confirm Reservation?</string>
+    <string name="reserve_label">Reserve</string>
+    <string name="reset_label">Reset</string>
+</resources>
